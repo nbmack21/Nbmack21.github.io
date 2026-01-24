@@ -1,9 +1,5 @@
 main:
-  - title: "Start Here"
-    url: /start-here/
   - title: "Itineraries"
     url: /itineraries/
   - title: "Destinations"
     url: /destinations/
-  - title: "About"
-    url: /about/
