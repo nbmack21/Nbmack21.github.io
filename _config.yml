@@ -6,12 +6,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
-
-# Site basics (adjust values)
-title: "Nicole’s Travel Blog"
-description: "Family-friendly itineraries, outdoor adventures, and local gems—built for real life."
+title: "A Travel Broad"
+description: "Wander with Kids. Plan Like a Pro. Fun, fully-researched family travel."
 url: "https://nbmack21.github.io"
-baseurl: ""  # keep empty for user.github.io sites
+baseurl: ""
 timezone: "America/Los_Angeles"
-markdown: kramdown
 permalink: /:categories/:title/
