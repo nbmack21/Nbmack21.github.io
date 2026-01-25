@@ -12,3 +12,5 @@ url: "https://nbmack21.github.io"
 baseurl: ""
 timezone: "America/Los_Angeles"
 permalink: /:categories/:title/
+minimal_mistakes_skin: "air"
+
