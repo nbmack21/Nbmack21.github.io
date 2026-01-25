@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "Wander with Kids. Plan Like a Pro."
+title: "A Travel Broad"
+excerpt: "Wander with Kids. Plan Like a Pro."
 author_profile: false
 header:
   overlay_image: /assets/images/FullSizeRender.jpg
@@ -8,7 +9,7 @@ header:
   overlay_height: 70%
 ---
 
-#### *Fun, fully researched family travel*.
+*Fun, fully researched family travel.*
 
 Hi, I’m Nicole! I’m a Southern California-based mom to two energetic kids (6 and 4), married to an incredible husband, and always planning our next trip. Traveling has long been a passion of mine, and now I get to experience it through family adventures–making memories, exploring new places, and occasionally navigating meltdowns in unexpected settings. 
 
