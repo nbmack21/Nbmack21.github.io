@@ -1,5 +1,10 @@
 ---
 title: "Destinations"
-layout: categories
+layout: collection
 permalink: /destinations/
+collection: posts
+entries_layout: grid
+classes: wide
 ---
+
+
