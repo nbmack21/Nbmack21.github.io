@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Wander with Kids. Plan Like a Pro."
 author_profile: false
 header:
   overlay_image: /assets/images/FullSizeRender.jpg
