@@ -95,9 +95,11 @@ We visited Washington State with my in-laws for our second multi-generational tr
 As with most trips, we didn’t get to everything. These were on our list and still high-priority for a future visit. If you try any before we do, let me know!
 
 **Anacortes:**
+
 [Dad’s Diner](https://my-site-105803-107532.square.site/)
 
 **San Juan Island:**
+
 [Westcott Bay Shellfish Farm](https://www.westcottbayshellfish.com/)
 
 [Downriggers](https://www.downriggerssanjuan.com/)
@@ -114,6 +116,7 @@ As with most trips, we didn’t get to everything. These were on our list and st
 [Chateau Ste Michelle](https://www.ste-michelle.com/?utm_source=google&utm_medium=listing&utm_campaign=chateau+ste+michelle)
 
 **Seattle:**
+
 [Gas Works Playground](https://www.seattle.gov/parks/allparks/gas-works-park)
 
 ## Final Thoughts
