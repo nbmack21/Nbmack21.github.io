@@ -1,5 +1,5 @@
 ---
-title: "Death Valley"
+title: "Death Valley, California"
 excerpt: "4-Day Family-Friendly Itinerary"
 layout: single
 header:
