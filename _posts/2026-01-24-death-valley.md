@@ -32,7 +32,7 @@ Below is the itinerary I researched and planned for our trip:
  - ~30-minute drive from the hotel
  - Easy in-and-out hike; the most dramatic formations are within the first ½ mile
  - Great for light rock scrambling
-![](/assets/images/death-valley/MosaicCanyon)
+![](/assets/images/death-valley/MosaicCanyon.jpg)
 *Mosaic Canyon
 
 **Sand Dunes:** [Mesquite Flat Sand Dunes](https://www.nps.gov/places/mesquite-flat-sand-dunes.htm) (5 minutes from Mosaic Canyon)
