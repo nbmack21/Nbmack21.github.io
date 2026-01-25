@@ -1,14 +1,11 @@
-yml
-
 ---
 title: "Death Valley | 4-Day Family-Friendly Itinerary"
 layout: single
-categories: [Destinations, California]
-tags: [national-parks, family-travel]
-minimal_mistakes_skin: "mint"
 header:
   teaser: /assets/images/Scenery.jpg
+tags: [national-parks, family-travel]
 ---
+
 
 Death Valley was one of the most unexpected surprises—and easily one of the best family trips we’ve taken. If you live within driving distance, love the outdoors, and appreciate dramatic natural beauty, this is one to put high on your list. We traveled with another family who had kids close in age to ours, which made the trip even more seamless. 
 
