@@ -47,8 +47,11 @@ Below is the itinerary I researched and planned for our trip:
  -  **Tip:** We brought goggles. The kids looked ridiculous, but it saved us from constant “sand in my eyes” complaints
  -  **Another tip:** Pack a picnic, bring a blanket, and linger. Low stress, high reward.
  -  **Weather note:** Check conditions before you go—wind matters here.
+
 **Drive Back:** We stopped along the road for photos. The scenery is unreal. 
+
 **Afternoon:** Lawn games at the hotel (cornhole, etc.) and naps.
+
 **Dinner:** [Wild Rose Tavern](https://www.oasisatdeathvalley.com/dine/wildrose-tavern/?xfunnel=&xmedium=&xsource=&utm_term=&utm_campaign=oasis-brand-prospects_ca-lv-az-pmax-google-bottom&utm_source=adwords&utm_medium=ppc&hsa_acc=6414653504&hsa_cam=23389078947&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23389085988&gbraid=0AAAAADqlKd3ZbYJ4Y1FvJDCAByMNYAeQE&gclid=Cj0KCQiA-NHLBhDSARIsAIhe9X1At8Qj5S5AZPuoO6qW1dpSrFno5PGLHF5tt7OullOxb28YhJKL_7saAnEOEALw_wcB)
 
 ---
@@ -59,6 +62,7 @@ Below is the itinerary I researched and planned for our trip:
  -  ~10-minute drive 
  -  The most iconic view in the park
  -  Several hikes available, but not particularly kid-friendly. We stayed about 30 minutes to take it in.
+
 **Mid-Morning:** [Badwater Basin](https://www.nps.gov/places/badwater-basin.htm)
  -  ~15-minute drive from Zabriskie Point
  -  The lowest point in North America
@@ -68,7 +72,9 @@ Below is the itinerary I researched and planned for our trip:
 
 **Final Stop:** [Furnace Creek Visitor Center](https://www.nps.gov/thingstodo/visit-the-furnace-creek-visitor-center.htm)
  -  National Park passport stamps and a chance to learn more about the park’s unique landscape. 
+
 **Afternoon:** Well-deserved naps 
+
 **Dinner:** Ice Cream Parlour (round two)
 
 ---
