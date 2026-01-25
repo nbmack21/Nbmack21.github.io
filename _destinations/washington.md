@@ -97,13 +97,18 @@ As with most trips, we didn’t get to everything. These were on our list and st
 
 **San Juan Island:**
 [Westcott Bay Shellfish Farm](https://www.westcottbayshellfish.com/)
+
 [Downriggers](https://www.downriggerssanjuan.com/)
+
 [The Farm at Krystal Acres](https://www.krystalacres.com/)
 
 **Between Anacortes and Seattle:**
 [Schuh Farms](https://schuhfarmswa.com/) (strawberry picking)
+
 [Novelty Hill Januik Winery](https://www.noveltyhilljanuik.com/)
+
 [Two Vintners](https://www.twovintners.com/)
+
 [Chateau Ste Michelle](https://www.ste-michelle.com/?utm_source=google&utm_medium=listing&utm_campaign=chateau+ste+michelle)
 
 **Seattle:**
