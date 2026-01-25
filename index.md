@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "A Travel Broad"
 excerpt: "Wander with Kids. Plan Like a Pro."
 author_profile: false
