@@ -15,7 +15,7 @@ We traveled with friends who have kids similar in age to ours, which always help
 Below is how we intentionally structured the trip. 
 Think of this itinerary as a framework, not a checklist — a way to know what’s possible so you can pivot confidently when plans change (because they always do). 
 
-![](/assets/images/TetonVillage.jpg){: .align-center .w-50}
+![](/assets/images/TetonVillage.jpg){: .align-center .w-25}
 *📍 Teton Village*
 
 ## Day 1: Travel Day
@@ -53,7 +53,7 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
  - Fun Fact: Moulton Barn is the most photographed barn in the world
  - On the drive home, we spotted elk. Casual Wyoming flex.
 
-![](/assets/images/Elk.jpg){: .align-center .w-50}
+![](/assets/images/Elk.jpg){: .align-center .w-25}
 
 ## Day #3: Teton Village
 
@@ -84,7 +84,7 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
  - [Inspiration Point](https://www.nps.gov/thingstodo/inspirationpoint.htm) is beyond that, but we skipped it based on feedback for young kids
  - Boat ride back for National Park passport stamps
 
-![Hidden Falls Trail](/assets/images/HiddenFalls1.jpg){: .align-center .w-50}
+![Hidden Falls Trail](/assets/images/HiddenFalls1.jpg){: .align-center .w-25}
 *📍 Hidden Falls*
 
 **Reality Check:**
