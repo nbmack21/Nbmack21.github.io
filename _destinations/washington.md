@@ -3,11 +3,11 @@ title: "Seattle & San Juan Island, Washington"
 excerpt: "A Multi-Generational Itinerary"
 layout: single
 header:
-  teaser: /assets/images/WAKiln2.jpg
+  teaser: /assets/images/WABeach1.jpg
 tags: [national-parks, family-travel]
 date: 2026-06-30
-permalink: /destinations/washington/
 ---
+
 
 We visited Washington State with my in-laws for our second multi-generational trip, and it was a huge hit. This itinerary reflects what we actually did—plus what we learned along the way. Use it as inspiration and adjust based on your group, pace, and interests.
 
