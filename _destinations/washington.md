@@ -11,6 +11,9 @@ date: 2025-06-30
 
 We visited Washington State with my in-laws for our second multi-generational trip, and it was a huge hit. This itinerary reflects what we actually did—plus what we learned along the way. Use it as inspiration and adjust based on your group, pace, and interests.
 
+![](/assets/images/WABeach1.jpg){: .align-center .w-25}
+*📍 Jackson State Beach*
+
 ## Day 1: Seattle → Anacortes
 **Getting There:** We flew into Seattle, rented a car and drove about 90 minutes to Anacortes. The drive is straightforward on main highways, though traffic getting out of Seattle can slow things down depending on the time of day. 
 
