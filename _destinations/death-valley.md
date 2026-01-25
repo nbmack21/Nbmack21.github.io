@@ -1,3 +1,5 @@
+yml
+
 ---
 title: "Death Valley | 4-Day Family-Friendly Itinerary"
 layout: single
