@@ -3,8 +3,6 @@ layout: home
 author_profile: false
 ---
 
-## **A Travel Broad**
-
 ### Wander with Kids. Plan Like a Pro.
 #### *Fun, fully researched family travel*.
 
