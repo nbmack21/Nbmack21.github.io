@@ -3,7 +3,7 @@ title: "Jackson Hole, Wyoming"
 excerpt: "5-Day Family-Friendly Itinerary (with a Grand Teton Day Trip)"
 layout: single
 header:
-  teaser: /assets/images/Scenery.jpg
+  teaser: /assets/images/SceneryJAC2.jpg
 tags: [national-parks, family-travel]
 date: 2025-08-01
 ---
@@ -14,6 +14,9 @@ We traveled with friends who have kids similar in age to ours, which always help
 
 Below is how we intentionally structured the trip. 
 Think of this itinerary as a framework, not a checklist — a way to know what’s possible so you can pivot confidently when plans change (because they always do). 
+
+![](/assets/images/TetonVillage.jpg){: .align-center .w-50}
+*📍 Teton Village*
 
 ## Day 1: Travel Day
 **Flight:** Nonstop from LAX
@@ -78,6 +81,9 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
  - Hidden Falls is about 1-mile roundtrip
  - [Inspiration Point](https://www.nps.gov/thingstodo/inspirationpoint.htm) is beyond that, but we skipped it based on feedback for young kids
  - Boat ride back for National Park passport stamps
+
+![Hidden Falls Trail](/assets/images/HiddenFalls1.jpg){: .align-center .w-50}
+*📍 Hidden Falls*
 
 **Reality Check:**
  - After Jenny Lake, we aimed for String Lake, but parking was completely full
