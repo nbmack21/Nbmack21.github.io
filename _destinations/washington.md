@@ -12,15 +12,18 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 ## Day 1: Seattle → Anacortes
 **Getting There:** We flew into Seattle, rented a car and drove about 90 minutes to Anacortes. The drive is straightforward on main highways, though traffic getting out of Seattle can slow things down depending on the time of day. 
-Stay: Majestic Inn & Spa — a charming hotel in downtown Anacortes with an awesome rooftop and incredible views 
-Evening: Early dinner at the hotel (surpringly good), followed by a casual stroll through town, popping into shops and checking out the street art.
+
+**Stay:** [Majestic Inn & Spa](https://www.majesticinnandspa.com/) — a charming hotel in downtown Anacortes with an awesome rooftop and incredible views 
+
+**Evening:** Early dinner at the hotel (surpringly good), followed by a casual stroll through town, popping into shops and checking out the street art.
 
 ## Day #2: Anacortes —> San Juan Island
 **Breakfast:** [Calico Cupcoard Cafe & Bakery](https://www.calicocupboardcafe.com/anacortes)
 
 **Playground:** [John Stovik Playground & Splash Pad](https://www.anacorteswa.gov/facilities/facility/details/Storvik-Park-6)
 
-**Ferry:** 12PM sailing to the San Juan Islands. Tip: Book ferry tickets in advance and read departure instructions carefully for a smooth experience. 
+**Ferry:** 12PM sailing to the San Juan Islands. 
+ - **Tip:** Book ferry tickets in advance and read departure instructions carefully for a smooth experience. 
 
 **🏨 Stay:** [Roche Harbor Resort](https://www.rocheharbor.com/)
  - Perfect for our group of six. We booked a 3-bedroom/2-bathroom unit within walking distance of the harbor and restaurants.
