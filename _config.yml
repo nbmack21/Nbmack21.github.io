@@ -8,11 +8,10 @@ plugins:
   - jekyll-include-cache
 title: "A Travel Broad"
 description: "Wander with Kids. Plan Like a Pro. Fun, fully-researched family travel."
-url: "https://nbmack21.github.io"
+url: "https://atravelbroadandfamily.com
 baseurl: ""
 timezone: "America/Los_Angeles"
-permalink: /:categories/:title/
-minimal_mistakes_skin: "air"
+permalink: pretty
 minimal_mistakes_skin: "mint"
 collections:
   destinations:
