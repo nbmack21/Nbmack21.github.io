@@ -33,7 +33,7 @@ Below is the itinerary I researched and planned for our trip:
  - Easy in-and-out hike; the most dramatic formations are within the first ½ mile
  - Great for light rock scrambling
 
-![Mosaic Canyon trail](/assets/images/death-valley/MosaicCanyon)
+![Mosaic Canyon trail](/assets/images/MosaicCanyon)
 
 *Mosaic Canyon*
 
@@ -62,7 +62,7 @@ Below is the itinerary I researched and planned for our trip:
  -  ~15-minute drive from Zabriskie Point
  -  The lowest point in North America
 
-![Badwater Basin](/assets/images/death-valley/BadwaterBasiin_CM)
+![Badwater Basin](/assets/images/BadwaterBasin_CM)
 
 *Badwater Basin*
 
@@ -76,7 +76,7 @@ Below is the itinerary I researched and planned for our trip:
 ## Day 4: Travel Day
 Since we live in San Diego, we exited the park from a different route than we entered, essentially driving the length of Death Valley. A great final perspective on how vast the park really is. 
 
-![Views of Death Valley](/assets/images/death-valley/Scenery)
+![Views of Death Valley](/assets/images/Scenery)
 
 ## Tips
  -  If driving, bring food for your room. Dining options are limited, and having a cooler plus dry snacks made life much easier with kids. 
