@@ -15,22 +15,22 @@ We visited Washington State with my in-laws for our second multi-generational tr
 *📍 Jackson State Beach*
 
 ## Day 1: Seattle → Anacortes
-**Getting There:** We flew into Seattle, rented a car and drove about 90 minutes to Anacortes. The drive is straightforward on main highways, though traffic getting out of Seattle can slow things down depending on the time of day. 
+**Getting There:** We flew into Seattle, rented a car, and drove about 90 minutes to Anacortes. The drive is straightforward on main highways, though traffic getting out of Seattle can slow things down depending on the time of day. 
 
 **Stay:** [Majestic Inn & Spa](https://www.majesticinnandspa.com/) — a charming hotel in downtown Anacortes with an awesome rooftop and incredible views 
 
-**Evening:** Early dinner at the hotel (surpringly good), followed by a casual stroll through town, popping into shops and checking out the street art.
+**Evening:** Early dinner at the hotel (surpringly good), followed by a casual stroll through town, popping into shops, and checking out the street art.
 
 ## Day #2: Anacortes —> San Juan Island
 **Breakfast:** [Calico Cupcoard Cafe & Bakery](https://www.calicocupboardcafe.com/anacortes)
 
 **Playground:** [John Stovik Playground & Splash Pad](https://www.anacorteswa.gov/facilities/facility/details/Storvik-Park-6)
 
-**Ferry:** 12PM sailing to the San Juan Islands. 
+**Ferry:** Boat ride to Friday Harbor
  - **Tip:** Book ferry tickets in advance and read departure instructions carefully for a smooth experience. 
 
 **🏨 Stay:** [Roche Harbor Resort](https://www.rocheharbor.com/)
- - Perfect for our group of six. We booked a 3-bedroom/2-bathroom unit within walking distance of the harbor and restaurants.
+ - Perfect for our group of six. We booked a 3-bedroom/2-bathroom unit within walking distance of the harbor and restaurants
 
 **Afternoon:** Explored the harbor, stocked the kitchen, and played bocce ball on the property
 
@@ -40,8 +40,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
 **Bike Rental:** [Cycle San Juan](https://cyclesanjuan.com/)
 
 **Ride:** Pear Point Loop
- - 6 miles with a small incline
- - We rented e-bikes and were glad we did
+ - 6 miles with a small incline; we rented e-bikes and were glad we did
  - Stopped at [Jackson Beach Park](https://www.nps.gov/places/jackson-beach.htm)—great for rock throwing, wading, and scenery
  - Important note: there is no dedicated bike path—you’re riding on the road. It was fine in the end, but had I known this ahead of time, I may not have done it with kids. Fair warning.
 
@@ -59,12 +58,11 @@ We visited Washington State with my in-laws for our second multi-generational tr
 ## Day #4: Sculpture Park and Orca Watching (Sort of)
 **Breakfast:** [Lime Kiln Cafe](https://www.rocheharbor.com/dining/lime-kiln-cafe-menu/)
 **Morning:** [San Juan Islands Sculpture Park](https://sjisculpturepark.com/)
- - Adults loved it. The kids… not so much
+ - Adults loved it, while the kids… not so much
  - Total time: 30 minutes and one tantrum
- - After a much-needed “quiet time,” we headed out mid-afternoon
 
 **Afternoon:** [Lime Kiln Point State Park](https://parks.wa.gov/find-parks/state-parks/lime-kiln-point-state-park)
- - No orca sightings, but stunning views, dolphins and seal sightings, and easy walking paths.
+ - No orca sightings, but stunning views, dolphins and seal sightings, and easy walking paths
 
 ![](/assets/images/WAKiln.jpg){: .align-center .w-50}
 *📍 Lime Kiln Poinst State Park*
@@ -72,12 +70,12 @@ We visited Washington State with my in-laws for our second multi-generational tr
 **Dinner:** Home-cooked meal
 
 ## Day #5: San Juan Island —> Seattle (Fremont)
-**Ferry:** 10:55AM [ferry ride](https://wsdot.com/ferries/schedule/ScheduleDetail.aspx?departingterm=10&arrivingterm=1) back to Anacortes. 
+**Ferry:** 10:55AM [ferry ride](https://wsdot.com/ferries/schedule/ScheduleDetail.aspx?departingterm=10&arrivingterm=1) back to Anacortes 
 **Lunch:** [Gere-a-Deli](https://gereadeli.com/)
 **Afternoon:** More shopping in Anacortes
 **Drive:** Back to Seattle
 **Stay:** Airbnb in Fremont
-**Evening:** Neighborhood walk, grocery run, and takeout from Ha!
+**Evening:** Neighborhood walk, grocery run, and takeout from a local burger joint
 
 ## Day #6: Seattle City Day
 **Morning:** [Pike Place Market](https://www.pikeplacemarket.org/)
