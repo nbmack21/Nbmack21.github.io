@@ -19,8 +19,8 @@ Below is the itinerary I researched and planned for our trip:
 ## Day 1: Mammoth → Death Valley
 **Getting There:** We added Death Valley onto a longer Mammoth trip and were surprised to learn it’s only about a 3.5-hour drive. 
 
-**🚗Drive Notes:** Mostly easy, though you do go up and over a mountain with some twists and turns. The views make it worth it. 
-- **🏨Stay:** [The Ranch at Death Valley](https://www.oasisatdeathvalley.com/lodging/the-ranch-at-death-valley/)
+**🚗 Drive Notes:** Mostly easy, though you do go up and over a mountain with some twists and turns. The views make it worth it. 
+- **🏨 Stay:** [The Ranch at Death Valley](https://www.oasisatdeathvalley.com/lodging/the-ranch-at-death-valley/)
 
   - The Inn at Death Valley is considered the more upscale option, but The Ranch was perfect for our group and felt more kid-friendly.
 
@@ -34,14 +34,14 @@ Below is the itinerary I researched and planned for our trip:
 ## Day 2: Hiking & Sand Dunes
 **Breakfast:** Snacks packed from the drive (bagels, muffins, breakfast bars, strawberries). 
 
-**🥾Morning Hike:** [Mosaic Canyon](https://www.nps.gov/deva/planyourvisit/mosaic-canyon.htm) 
+**🥾 Morning Hike:** [Mosaic Canyon](https://www.nps.gov/deva/planyourvisit/mosaic-canyon.htm) 
  - ~30-minute drive from the hotel
  - Easy in-and-out hike; the most dramatic formations are within the first ½ mile
  - Great for light rock scrambling
 
 ![Mosaic Canyon trail](/assets/images/MosaicCanyon.jpg){: .align-center .w-75}
 
-*📍Mosaic Canyon*
+*📍 Mosaic Canyon*
 
 **Sand Dunes:** [Mesquite Flat Sand Dunes](https://www.nps.gov/places/mesquite-flat-sand-dunes.htm) (5 minutes from Mosaic Canyon)
  -  We couldn’t find sand sleds for sale anywhere in the park, so if this is a priority, bring them with you. 
