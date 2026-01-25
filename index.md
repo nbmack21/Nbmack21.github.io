@@ -7,8 +7,7 @@ header:
 header:
   overlay_image: /assets/images/FullSizeRender.jpg
   overlay_filter: 0.3
-  overlay_height: 90%
-  image_position: bottom
+  overlay_height: 70%
 ---
 
 *Fun, fully researched family travel.*
