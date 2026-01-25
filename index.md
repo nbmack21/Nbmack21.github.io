@@ -20,3 +20,10 @@ Our travel style reflects who we are as a family. You’ll find lots of outdoor 
 I hope this blog helps you plan trips that feel doable, memorable and fun. If you’d like help building a custom itinerary for your family, feel free to reach out at [email]. I’d be happy to help.
 
 👇 Start with our latest trips below.
+
+## Recent Destinations
+{% assign entries = site.destinations | sort: "date" | reverse %}
+{% for post in entries limit:6 %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
