@@ -3,7 +3,7 @@ layout: home
 author_profile: false
 ---
 
-### **A Travel Broad**
+## **A Travel Broad**
 
 ### Wander with Kids. Plan Like a Pro.
 
