@@ -5,7 +5,7 @@ layout: single
 header:
   teaser: /assets/images/WABeach1.jpg
 tags: [national-parks, family-travel]
-date: 2026-06-30
+date: 2025-06-30
 ---
 
 
