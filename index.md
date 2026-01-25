@@ -4,7 +4,7 @@ title: "A Travel Broad"
 excerpt: "Wander with Kids. Plan Like a Pro."
 author_profile: false
 header:
-  overlay_image: /assets/images/FullSizeRender.jpg
+  overlay_image: /assets/images/hero1.jpg
   overlay_filter: 0.3
   overlay_height: 90%
   image_position: bottom
