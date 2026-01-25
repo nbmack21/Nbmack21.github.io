@@ -33,7 +33,7 @@ Below is the itinerary I researched and planned for our trip:
  - Easy in-and-out hike; the most dramatic formations are within the first ½ mile
  - Great for light rock scrambling
 
-![Mosaic Canyon trail](/assets/images/death-valley/MosaicCanyon.jpg)
+![Mosaic Canyon trail](/assets/images/death-valley/MosaicCanyon)
 
 *Mosaic Canyon*
 
@@ -57,7 +57,8 @@ Below is the itinerary I researched and planned for our trip:
  -  The most iconic view in the park
  -  Several hikes available, but not particularly kid-friendly. We stayed about 30 minutes to take it in.
 
-**Mid-Morning:** [Badwater Basin](https://www.nps.gov/places/badwater-basin.htm)
+**Mid-Morning:** [Badwater Basin](/assets/images/death-valley/BadwaterBasin.jpg)
+)
  -  ~15-minute drive from Zabriskie Point
  -  The lowest point in North America
 
