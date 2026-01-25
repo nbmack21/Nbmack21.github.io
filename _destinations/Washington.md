@@ -3,7 +3,7 @@ title: "Seattle & San Juan Island, Washington"
 excerpt: "A Multi-Generational Itinerary"
 layout: single
 header:
-  teaser: /assets/images/Scenery.jpg
+  teaser: /assets/images/WAKiln2.jpg
 tags: [national-parks, family-travel]
 date: 2026-06-30
 ---
@@ -22,7 +22,7 @@ Evening: Early dinner at the hotel (surpringly good), followed by a casual strol
 
 **Ferry:** 12PM sailing to the San Juan Islands. Tip: Book ferry tickets in advance and read departure instructions carefully for a smooth experience. 
 
-**Stay:** [Roche Harbor Resort](https://www.rocheharbor.com/)
+**🏨 Stay:** [Roche Harbor Resort](https://www.rocheharbor.com/)
  - Perfect for our group of six. We booked a 3-bedroom/2-bathroom unit within walking distance of the harbor and restaurants.
 
 **Afternoon:** Explored the harbor, stocked the kitchen, and played bocce ball on the property
@@ -37,6 +37,9 @@ Evening: Early dinner at the hotel (surpringly good), followed by a casual strol
  - We rented e-bikes and were glad we did
  - Stopped at [Jackson Beach Park](https://www.nps.gov/places/jackson-beach.htm)—great for rock throwing, wading, and scenery
  - Important note: there is no dedicated bike path—you’re riding on the road. It was fine in the end, but had I known this ahead of time, I may not have done it with kids. Fair warning.
+
+![Rock throwing at Jackson State Beach](/assets/images/WARockThrow.jpg){: .align-center .w-25}
+*📍 Jackson State Beach*
 
 **Afternoon:** Chill time at the resort
  - Grandparents took the kids to the pool
@@ -55,6 +58,9 @@ Evening: Early dinner at the hotel (surpringly good), followed by a casual strol
 
 **Afternoon:** [Lime Kiln Point State Park](https://parks.wa.gov/find-parks/state-parks/lime-kiln-point-state-park)
  - No orca sightings, but stunning views, dolphins and seal sightings, and easy walking paths.
+
+![](/assets/images/WAKiln.jpg){: .align-center .w-50}
+*📍 Lime Kiln Poinst State Park*
 
 **Dinner:** Home-cooked meal
 
