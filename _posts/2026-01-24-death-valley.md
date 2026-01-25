@@ -13,17 +13,14 @@ We visited in December when the weather was ideal. While some might consider 63 
 Below is the itinerary I researched and planned for our trip:
 
 ![](/assets/images/hero.jpg){: .align-center .w-50}
-
 *📍 Death Valley National Park*
 
 ## Day 1: Mammoth → Death Valley
 **Getting There:** We added Death Valley onto a longer Mammoth trip and were surprised to learn it’s only about a 3.5-hour drive. 
 
 **🚗 Drive Notes:** Mostly easy, though you do go up and over a mountain with some twists and turns. The views make it worth it. 
-- **🏨 Stay:** [The Ranch at Death Valley](https://www.oasisatdeathvalley.com/lodging/the-ranch-at-death-valley/)
-
+**🏨 Stay:** [The Ranch at Death Valley](https://www.oasisatdeathvalley.com/lodging/the-ranch-at-death-valley/)
   - The Inn at Death Valley is considered the more upscale option, but The Ranch was perfect for our group and felt more kid-friendly.
-
 **Evening:** 
  - Quick swim in the heated pool (yes, even in December) 
  - Dinner at the [Ice Cream Parlour](https://www.oasisatdeathvalley.com/dine/ice-cream-parlor/?xfunnel=&xmedium=&xsource=&utm_term=&utm_campaign=oasis-brand-prospects_ca-lv-az-pmax-google-bottom&utm_source=adwords&utm_medium=ppc&hsa_acc=6414653504&hsa_cam=23389078947&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23389085988&gbraid=0AAAAADqlKd3ZbYJ4Y1FvJDCAByMNYAeQE&gclid=Cj0KCQiA-NHLBhDSARIsAIhe9X2zkK1jG6R_ODU8CLtODapzeF37z6zx3mlWDvp-ntMvq1HE5B2wUu4aAmf7EALw_wcB)—surprisingly good burgers and chicken fingers
