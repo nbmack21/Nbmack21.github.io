@@ -4,7 +4,7 @@ md
 title: "Destinations"
 layout: collection
 permalink: /destinations/
-collection: posts
+collection: destinations
 entries_layout: grid
 classes: wide
 ---
