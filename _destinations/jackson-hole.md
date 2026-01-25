@@ -35,7 +35,7 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
  - Next to a splash pad and playground
  - Translation: parents enjoy a beverage while kids run feral. Everyone wins.   
 
-## Day #2: Jackson Hole Downtown
+## Day 2: Jackson Hole Downtown
 **Coffee:** [Cowboy Coffee Co](https://cowboycoffee.com/locations/teton-village/)
  - Go early to avoid lines. This quickly became our go-to all week.
 
@@ -55,7 +55,7 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
 
 ![Elk in Jackson Hole](/assets/images/Elk.jpg){: .align-center .w-25}
 
-## Day #3: Teton Village
+## Day 3: Teton Village
 
 **Coffee:** Cowboy Coffee Co (pattern emerging)
 
@@ -71,7 +71,7 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
 **Evening:** [Live Music at the Commons](https://www.jacksonhole.com/concerts-on-the-commons)
  - We packed a picnic, listened to music, and let the kids dance and roam
 
-## Day #4: Grand Teton National Park 🥾
+## Day 4: Grand Teton National Park 🥾
 *Before diving in, an honest note: this park was harder for our kids than expected. July crowds didn’t help, and some of what we mapped out just wasn’t realistic for them at this stage. That said, we still had a meaningful (and beautiful) day.*
 
 **Coffee:** Yes — Cowboy Coffee Co
@@ -96,7 +96,7 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
 **Evening:** 
 Dinner at the condo, movie night, packing for an early departure
 
-## Day #5: Travel home.
+## Day 5: Travel home.
 Early morning departure — smooth and uneventful (the best kind).
 
 ## What We Didn’t Get To (But Would Try Next Time)
