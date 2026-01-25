@@ -13,4 +13,16 @@ baseurl: ""
 timezone: "America/Los_Angeles"
 permalink: /:categories/:title/
 minimal_mistakes_skin: "air"
+collections:
+  destinations:
+    output: true
+    permalink: /destinations/:name/
+defaults:
+  - scope:
+      path: ""
+      type: destinations
+    values:
+      layout: single
+      classes: wide
+
 
