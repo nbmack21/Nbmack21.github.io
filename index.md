@@ -3,7 +3,7 @@ layout: home
 author_profile: false
 header:
   overlay_image: /assets/images/FullSizeRender.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.5
 ---
 
 ### Wander with Kids. Plan Like a Pro.
