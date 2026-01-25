@@ -50,8 +50,10 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
 **Afternoon:** quiet time back at the condo (non-negotiable for us)
 
 **Family Photos:** Booked [Jessica Calderwood Photography](https://jessicacalderwoodphotography.com/) at Moulton Barn — a splurge that was 100% worth it.
- - Yes, that barn — the most photographed barn in the world 
+ - Fun Fact: Moulton Barn is the most photographed barn in the world
  - On the drive home, we spotted elk. Casual Wyoming flex.
+
+![](/assets/images/Elk.jpg){: .align-center .w-50}
 
 ## Day #3: Teton Village
 
