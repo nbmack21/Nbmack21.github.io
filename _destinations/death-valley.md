@@ -91,6 +91,6 @@ Since we live in San Diego, we exited the park from a different route than we en
  -  If driving, bring food for your room. Dining options are limited, and having a cooler plus dry snacks made life much easier with kids. 
  -  Pay close attention to the time of year. December was an excellent choice for comfortable exploring. 
 
-
-*Death Valley surprised us in the best way. It’s vast, quiet, and incredibly grounding—especially when experienced at a kid-friendly pace. With the right timing and expectations, it’s a place that feels both adventurous and approachable for families, and one that left a lasting impression.*
+## Final Thoughts
+Death Valley surprised us in the best way. It’s vast, quiet, and incredibly grounding—especially when experienced at a kid-friendly pace. With the right timing and expectations, it’s a place that feels both adventurous and approachable for families, and one that left a lasting impression.
 
