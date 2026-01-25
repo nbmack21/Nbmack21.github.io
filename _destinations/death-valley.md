@@ -5,6 +5,7 @@ layout: single
 header:
   teaser: /assets/images/Scenery.jpg
 tags: [national-parks, family-travel]
+date: 2026-01-24
 ---
 
 
