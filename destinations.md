@@ -1,5 +1,3 @@
-md
-
 ---
 title: "Destinations"
 layout: collection
@@ -8,5 +6,6 @@ collection: destinations
 entries_layout: grid
 classes: wide
 ---
+
 
 
