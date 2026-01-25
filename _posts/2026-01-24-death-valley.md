@@ -57,12 +57,12 @@ Below is the itinerary I researched and planned for our trip:
  -  The most iconic view in the park
  -  Several hikes available, but not particularly kid-friendly. We stayed about 30 minutes to take it in.
 
-**Mid-Morning:** [Badwater Basin](/assets/images/death-valley/BadwaterBasin.jpg)
+**Mid-Morning:** [Badwater Basin](https://www.nps.gov/places/badwater-basin.htm)
 )
  -  ~15-minute drive from Zabriskie Point
  -  The lowest point in North America
 
-![Badwater Basin](/assets/images/death-valley/BadwaterBasin_CM)
+![Badwater Basin](/assets/images/death-valley/BadwaterBasiin_CM)
 
 *Badwater Basin*
 
