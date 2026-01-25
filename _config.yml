@@ -13,6 +13,7 @@ baseurl: ""
 timezone: "America/Los_Angeles"
 permalink: /:categories/:title/
 minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "mint"
 collections:
   destinations:
     output: true
