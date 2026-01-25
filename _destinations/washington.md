@@ -21,7 +21,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 **Evening:** Early dinner at the hotel (surpringly good), followed by a casual stroll through town, popping into shops, and checking out the street art.
 
-## Day #2: Anacortes → San Juan Island
+## Day 2: Anacortes → San Juan Island
 **Breakfast:** [Calico Cupcoard Cafe & Bakery](https://www.calicocupboardcafe.com/anacortes)
 
 **Playground:** [John Stovik Playground & Splash Pad](https://www.anacorteswa.gov/facilities/facility/details/Storvik-Park-6)
@@ -34,7 +34,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 **Afternoon:** Explored the harbor, stocked the kitchen, and played bocce ball on the property
 
-## Day #3: Bikes, Beaches, and Beer
+## Day 3: Bikes, Beaches, and Beer
 **Breakfast:** [Crows Nest at Earthbox](https://www.crowsnest.coffee/)
 
 **Bike Rental:** [Cycle San Juan](https://cyclesanjuan.com/)
@@ -55,7 +55,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 **Evening:** Bocce ball round 2
 
-## Day #4: Sculpture Park and Orca Watching (Sort of)
+## Day 4: Sculpture Park and Orca Watching (Sort of)
 **Breakfast:** [Lime Kiln Cafe](https://www.rocheharbor.com/dining/lime-kiln-cafe-menu/)
 **Morning:** [San Juan Islands Sculpture Park](https://sjisculpturepark.com/)
  - Adults loved it, while the kids… not so much
@@ -69,7 +69,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 **Dinner:** Home-cooked meal
 
-## Day #5: San Juan Island → Seattle (Fremont)
+## Day 5: San Juan Island → Seattle (Fremont)
 **Ferry:** 10:55AM [ferry ride](https://wsdot.com/ferries/schedule/ScheduleDetail.aspx?departingterm=10&arrivingterm=1) back to Anacortes 
 **Lunch:** [Gere-a-Deli](https://gereadeli.com/)
 **Afternoon:** More shopping in Anacortes
@@ -77,7 +77,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
 **Stay:** Airbnb in Fremont
 **Evening:** Neighborhood walk, grocery run, and takeout from a local burger joint
 
-## Day #6: Seattle City Day
+## Day 6: Seattle City Day
 **Morning:** [Pike Place Market](https://www.pikeplacemarket.org/)
  - Browsed shops, grabbed food from various stalls, and people-watched
  - **Kids Break:** [Artists at Play Playground](https://www.seattlecenter.com/explore/attractions/artists-at-play) & [International Fountain](https://www.seattlecenter.com/explore/attractions/international-fountain)
@@ -89,8 +89,9 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 **Dinner:** [Tutta Bella (Wallingford)](https://www.tuttabella.com/location/tutta-bella-wallingford/)
 
-## Day #7: Travel home
+## Day 7: Travel home
 
+## What We Didn’t Get To (But Would Try Next Time) 
 As with most trips, we didn’t get to everything. These were on our list and still high-priority for a future visit. If you try any before we do, let me know!
 
 **Anacortes:**
@@ -115,4 +116,5 @@ As with most trips, we didn’t get to everything. These were on our list and st
 **Seattle:**
 [Gas Works Playground](https://www.seattle.gov/parks/allparks/gas-works-park)
 
-*This trip was a great reminder of why we love multi-generational travel. The mix of nature, walkable towns, and low-key city time made Washington an easy destination to tailor to different ages and energy levels. If you’re traveling with kids, grandparents, or both, this area gives you plenty of room to slow down, speed up, and adjust as needed—which is exactly what makes a trip feel successful.* 
+## Final Thoughts
+This trip was a great reminder of why we love multi-generational travel. The mix of nature, walkable towns, and low-key city time made Washington an easy destination to tailor to different ages and energy levels. If you’re traveling with kids, grandparents, or both, this area gives you plenty of room to slow down, speed up, and adjust as needed—which is exactly what makes a trip feel successful. 
