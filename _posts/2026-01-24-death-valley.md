@@ -51,13 +51,35 @@ Below is the itinerary I researched and planned for our trip:
 **Dinner:** [Wild Rose Tavern](https://www.oasisatdeathvalley.com/dine/wildrose-tavern/?xfunnel=&xmedium=&xsource=&utm_term=&utm_campaign=oasis-brand-prospects_ca-lv-az-pmax-google-bottom&utm_source=adwords&utm_medium=ppc&hsa_acc=6414653504&hsa_cam=23389078947&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23389085988&gbraid=0AAAAADqlKd3ZbYJ4Y1FvJDCAByMNYAeQE&gclid=Cj0KCQiA-NHLBhDSARIsAIhe9X1At8Qj5S5AZPuoO6qW1dpSrFno5PGLHF5tt7OullOxb28YhJKL_7saAnEOEALw_wcB)
 
 ## Day 3: Death Valley’s Iconic Spots
-(Your Day 3 content here)
+
+**Morning:** Zabriskie Point
+ -  ~10-minute drive 
+ -  The most iconic view in the park
+ -  Several hikes available, but not particularly kid-friendly. We stayed about 30 minutes to take it in.
+
+**Mid-Morning:** [Badwater Basin](https://www.nps.gov/places/badwater-basin.htm)
+ -  ~15-minute drive from Zabriskie Point
+ -  The lowest point in North America
+
+![Badwater Basin](/assets/images/death-valley/BadwaterBasin_CM)
+
+*Badwater Basin*
+
+**Final Stop:** [Furnace Creek Visitor Center](https://www.nps.gov/thingstodo/visit-the-furnace-creek-visitor-center.htm)
+ -  National Park passport stamps and a chance to learn more about the park’s unique landscape. 
+
+**Afternoon:** Well-deserved naps 
+
+**Dinner:** Ice Cream Parlour (round two)
 
 ## Day 4: Travel Day
-(Your Day 4 content here)
+Since we live in San Diego, we exited the park from a different route than we entered, essentially driving the length of Death Valley. A great final perspective on how vast the park really is. 
+
+![Views of Death Valley](/assets/images/death-valley/Scenery)
 
 ## Tips
-- Tip 1
-- Tip 2
+ -  If driving, bring food for your room. Dining options are limited, and having a cooler plus dry snacks made life much easier with kids. 
+ -  Pay close attention to the time of year. December was an excellent choice for comfortable exploring. 
 
-*Closing paragraph here.*
+
+*Death Valley surprised us in the best way. It’s vast, quiet, and incredibly grounding—especially when experienced at a kid-friendly pace. With the right timing and expectations, it’s a place that feels both adventurous and approachable for families, and one that left a lasting impression.*
