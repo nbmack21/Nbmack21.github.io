@@ -12,7 +12,7 @@ We visited in December when the weather was ideal. While some might consider 63 
 
 Below is the itinerary I researched and planned for our trip:
 
-![](/assets/images/hero.jpg){: .align-center .w-75}
+![](/assets/images/hero.jpg){: .align-center .w-50}
 
 *📍 Death Valley National Park*
 
@@ -39,7 +39,7 @@ Below is the itinerary I researched and planned for our trip:
  - Easy in-and-out hike; the most dramatic formations are within the first ½ mile
  - Great for light rock scrambling
 
-![Mosaic Canyon trail](/assets/images/MosaicCanyon.jpg){: .align-center .w-75}
+![Mosaic Canyon trail](/assets/images/MosaicCanyon.jpg){: .align-center .w-50}
 
 *📍 Mosaic Canyon*
 
@@ -70,7 +70,7 @@ Below is the itinerary I researched and planned for our trip:
  -  ~15-minute drive from Zabriskie Point
  -  The lowest point in North America
 
-![Badwater Basin](/assets/images/BadwaterBasin_CM.jpg){: .align-center .w-75}
+![Badwater Basin](/assets/images/BadwaterBasin_CM.jpg){: .align-center .w-50}
 
 *Badwater Basin*
 
@@ -86,7 +86,7 @@ Below is the itinerary I researched and planned for our trip:
 ## Day 4: Travel Day
 Since we live in San Diego, we exited the park from a different route than we entered, essentially driving the length of Death Valley. A great final perspective on how vast the park really is. 
 
-![Views of Death Valley](/assets/images/Scenery.jpg){: .align-center .w-75}
+![Views of Death Valley](/assets/images/Scenery.jpg){: .align-center .w-50}
 
 ## Tips
  -  If driving, bring food for your room. Dining options are limited, and having a cooler plus dry snacks made life much easier with kids. 
