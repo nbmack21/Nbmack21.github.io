@@ -21,7 +21,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 **Evening:** Early dinner at the hotel (surpringly good), followed by a casual stroll through town, popping into shops, and checking out the street art.
 
-## Day #2: Anacortes —> San Juan Island
+## Day #2: Anacortes → San Juan Island
 **Breakfast:** [Calico Cupcoard Cafe & Bakery](https://www.calicocupboardcafe.com/anacortes)
 
 **Playground:** [John Stovik Playground & Splash Pad](https://www.anacorteswa.gov/facilities/facility/details/Storvik-Park-6)
@@ -69,7 +69,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 **Dinner:** Home-cooked meal
 
-## Day #5: San Juan Island —> Seattle (Fremont)
+## Day #5: San Juan Island → Seattle (Fremont)
 **Ferry:** 10:55AM [ferry ride](https://wsdot.com/ferries/schedule/ScheduleDetail.aspx?departingterm=10&arrivingterm=1) back to Anacortes 
 **Lunch:** [Gere-a-Deli](https://gereadeli.com/)
 **Afternoon:** More shopping in Anacortes
