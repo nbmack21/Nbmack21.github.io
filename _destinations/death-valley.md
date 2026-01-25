@@ -1,5 +1,6 @@
 ---
-title: "Death Valley | 4-Day Family-Friendly Itinerary"
+title: "Death Valley"
+excerpt: "4-Day Family-Friendly Itinerary"
 layout: single
 header:
   teaser: /assets/images/Scenery.jpg
