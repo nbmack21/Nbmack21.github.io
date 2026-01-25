@@ -53,7 +53,7 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
  - Fun Fact: Moulton Barn is the most photographed barn in the world
  - On the drive home, we spotted elk. Casual Wyoming flex.
 
-![](/assets/images/Elk.jpg){: .align-center .w-25}
+![Elk in Jackson Hole](/assets/images/Elk.jpg){: .align-center .w-25}
 
 ## Day #3: Teton Village
 
