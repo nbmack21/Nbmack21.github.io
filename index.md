@@ -7,7 +7,7 @@ header:
 header:
   overlay_image: /assets/images/FullSizeRender.jpg
   overlay_filter: 0.3
-  overlay_height: 85%
+  overlay_height: 70%
   image_position: bottom
 ---
 
