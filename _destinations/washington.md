@@ -1,5 +1,5 @@
 ---
-title: "Seattle & San Juan Island, Washington"
+title: "San Juan Islands and Seattle, Washington"
 excerpt: "A Multi-Generational Itinerary"
 layout: single
 header:
