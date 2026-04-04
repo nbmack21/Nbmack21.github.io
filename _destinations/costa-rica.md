@@ -17,9 +17,8 @@ The heat is real; to the point where it’s now our family benchmark. Anytime I 
 
 Below is how we structured the trip, heavily influenced by recommendations from Costa Rica Facebook groups (honestly, a great resource for finding local companies and pressure-testing plans).  
 
-![](/assets/images/CostaRicaSloth.jpg){: .align-center .w-50}
-
-<div style="text-align: center; margin-top: 0;">
+<div style="width: 50%; margin: 0 auto; text-align: center;">
+  <img src="/assets/images/CostaRicaSloth.jpg" alt="La Fortuna, Costa Rica" style="width: 100%; display: block;">
   <em>📍 La Fortuna, Costa Rica</em>
 </div>
 
