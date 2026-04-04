@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica"
-excerpt: "A 7-Day Spring Break Family Itinerary (Rainforest to Beach)"
+excerpt: "A 7-Day Spring Break Family Itinerary"
 layout: single
 header:
   teaser: /assets/images/Costa Rica Arenal.jpg{: .align-center .w-25}
