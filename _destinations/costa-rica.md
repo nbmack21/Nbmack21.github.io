@@ -17,7 +17,7 @@ The heat is real; to the point where it’s now our family benchmark. Anytime I 
 
 Below is how we structured the trip, heavily influenced by recommendations from Costa Rica Facebook groups (honestly, a great resource for finding local companies and pressure-testing plans).  
 
-![](/assets/images/CostaRicaSloth.jpg){: .align-center .w-25}
+![](/assets/images/CostaRicaSloth.jpg){: .align-left .w-33}
 *📍 La Fortuna, Costa Rica*
 
 ## Day 1: Travel Day
@@ -69,7 +69,7 @@ Below is how we structured the trip, heavily influenced by recommendations from 
  - Private tour run by a local family (~3hrs)
  - It took some patience, but we eventually spotted multiple sloths, including moms with babies! Once we found them, the kids were all in
 
-![Searching for Sloths](/assets/images/CostaRicaHiking.jpg){: .align-center .w-25}
+![Searching for Sloths](/assets/images/CostaRicaHiking.jpg){: .align-left .w-33}
 *📍 La Fortuna*
 
 **💦 Afternoon:** Pool (if it works, don't change it)
