@@ -16,6 +16,7 @@ Below is how we intentionally structured the trip.
 Think of this itinerary as a framework, not a checklist — a way to know what’s possible so you can pivot confidently when plans change (because they always do). 
 
 ![](/assets/images/TetonVillage.jpg){: .align-center .w-33}
+
 {: .text-center}
 *📍 Teton Village*
 
@@ -86,6 +87,7 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
  - Boat ride back for National Park passport stamps
 
 ![Hidden Falls Trail](/assets/images/HiddenFalls1.jpg){: .align-center .w-50}
+
 {: .text-center}
 *📍 Hidden Falls*
 
