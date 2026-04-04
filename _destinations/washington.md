@@ -12,6 +12,7 @@ date: 2025-06-30
 We visited Washington State with my in-laws for our second multi-generational trip, and it was a huge hit. This itinerary reflects what we actually did—plus what we learned along the way. Use it as inspiration and adjust based on your group, pace, and interests.
 
 ![](/assets/images/WABeach1.jpg){: .align-center .w-50}
+
 {: .text-center}
 *📍 Jackson State Beach*
 
@@ -46,6 +47,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
  - Important note: there is no dedicated bike path—you’re riding on the road. It was fine in the end, but had I known this ahead of time, I may not have done it with kids. Fair warning.
 
 ![Rock throwing at Jackson State Beach](/assets/images/WARockThrow.jpg){: .align-center .w-50}
+
 {: .text-center}
 *📍 Jackson State Beach*
 
@@ -67,6 +69,7 @@ We visited Washington State with my in-laws for our second multi-generational tr
  - No orca sightings, but stunning views, dolphins and seal sightings, and easy walking paths
 
 ![](/assets/images/WAKiln.jpg){: .align-center .w-50}
+
 {: .text-center}
 *📍 Lime Kiln Poinst State Park*
 
