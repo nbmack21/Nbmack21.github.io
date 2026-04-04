@@ -65,14 +65,14 @@ Below is how we structured the trip, heavily influenced by recommendations from 
 
 ## Day 4: Sloths and Pools
 
-**Morning:** [Papa's Place Sloth Tour](https://papasplacecr.com/en/) (7AM)
+**🦥 Morning:** [Papa's Place Sloth Tour](https://papasplacecr.com/en/) (7AM)
  - Private tour run by a local family (~3hrs)
  - It took some patience, but we eventually spotted multiple sloths, including moms with babies! Once we found them, the kids were all in
 
 ![Searching for Sloths](/assets/images/Costa Rica Hiking.jpg){: .align-center .w-50}
 *📍 La Fortuna*
 
-**Afternoon:** Pool (if it works, don't change it)
+**💦 Afternoon:** Pool (if it works, don't change it)
 
 **Evening:** Room Service
  - Everyone was wiped, and this was the right call for our family
@@ -95,7 +95,7 @@ Below is how we structured the trip, heavily influenced by recommendations from 
 
 ## What We Didn't Get To (But Would Next Time)
  -  [La Fortuna Waterfall Hike](https://www.cataratalafortuna.com/es)
- -  [Ecoglide Arenal Park] (https://www.arenalecoglide.com/)
+ -  [Ecoglide Arenal Park](https://www.arenalecoglide.com/)
 
 ## Final Thoughts
 Costa Rica worked best when we leaned into what our kids actually enjoy - animals, swimming, and the freedom to explore. The sloths (especially the babies) and pool time were the clear highlights, and La Fortuna delivered the best overall experience. The mix of jungle and beach gave the trip variety without overcomplicating things. 
