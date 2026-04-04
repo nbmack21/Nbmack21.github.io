@@ -16,6 +16,7 @@ We visited in December when the weather was ideal. While some might consider 63 
 Below is the itinerary I researched and planned for our trip:
 
 ![](/assets/images/hero.jpg){: .align-center .w-50}
+
 {: .text-center}
 *📍 Death Valley National Park*
 
@@ -43,6 +44,7 @@ Below is the itinerary I researched and planned for our trip:
  - Great for light rock scrambling
 
 ![Mosaic Canyon trail](/assets/images/MosaicCanyon.jpg){: .align-center .w-50}
+
 {: .text-center}
 *📍 Mosaic Canyon*
 
@@ -73,6 +75,7 @@ Below is the itinerary I researched and planned for our trip:
  -  The lowest point in North America
 
 ![Badwater Basin](/assets/images/BadwaterBasin_CM.jpg){: .align-center .w-50}
+
 {: .text-center}
 *📍 Badwater Basin*
 
