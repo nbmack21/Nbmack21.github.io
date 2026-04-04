@@ -3,7 +3,7 @@ title: "Costa Rica"
 excerpt: "A 7-Day Spring Break Family Itinerary"
 layout: single
 header:
-  teaser: /assets/images/Costa Rica Arenal.jpg
+  teaser: /assets/images/Costa Rica Arenal Cropped.jpg
 tags: [family-travel]
 date: 2026-04-04
 ---
