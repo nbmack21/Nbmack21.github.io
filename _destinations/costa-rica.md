@@ -19,9 +19,9 @@ Below is how we structured the trip, heavily influenced by recommendations from 
 
 ![](/assets/images/CostaRicaSloth.jpg){: .align-center .w-50}
 
-<p class="text-center">
+<div style="text-align: center; margin-top: 0;">
   <em>📍 La Fortuna, Costa Rica</em>
-</p>
+</div>
 
 ## Day 1: Travel Day
 **✈️ Flight:** Nonstop to Liberia; late afternoon arrival meant keeping logistics simple
