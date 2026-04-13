@@ -15,9 +15,8 @@ We traveled with friends who have kids similar in age to ours, which always help
 Below is how we intentionally structured the trip. 
 Think of this itinerary as a framework, not a checklist — a way to know what’s possible so you can pivot confidently when plans change (because they always do). 
 
-![](/assets/images/TetonVillage.jpg){: .align-center .w-33}
+![](/assets/images/TetonVillage.jpg){: .align-center .w-50}
 
-{: .text-center}
 *📍 Teton Village*
 
 ## Day 1: Travel Day
@@ -88,7 +87,6 @@ Airport: Tiny and efficient — easy in, easy out (a gift when traveling with ki
 
 ![Hidden Falls Trail](/assets/images/HiddenFalls1.jpg){: .align-center .w-50}
 
-{: .text-center}
 *📍 Hidden Falls*
 
 **Reality Check:**
