@@ -9,11 +9,11 @@ date: 2026-04-04
 ---
 
 
-This was our first big international trip as a family of four, and it delivered in some very memorable ways. The wildlife alone made it feel different. Sloths, iguanas, and animals we don’t casually see at home became part of daily routine - which, for the kids, was the main event. 
+This was our first big international trip as a family, and Costa Rica turned out to be a pretty ideal place to start. The wildlife is what made it feel different. Sloths, iguanas, and animals we don’t casually see at home became part of the daily routine. There was also a lot of swimming. No complaints there. 
 
-La Fortuna was the clear standout. Yes, it’s touristy, but it didn’t feel overdone. We loved the mix of rainforest, town, and just enough glimpses of local life to make it feel more grounded than expected. 
+La Fortuna was our favorite stop. It is touristy but it still felt grounded in a way we didn't expect. There were pockets where you could see how people actually live, which made it feel more real than just a resort destination. We loved the mix of rainforest and town, and it's the one place from this trip we'd go back to without hesitation. 
 
-The heat is real; to the point where it’s now our family benchmark. Anytime I say it’s hot, my daughter immediately asks, “Costa Rica hot?”
+On the flip side, the heat is real. It’s now our family benchmark. Anytime I say it’s hot, my daughter immediately asks, “Costa Rica hot?”
 
 Below is how we structured the trip, heavily influenced by recommendations from Costa Rica Facebook groups (honestly, a great resource for finding local companies and pressure-testing plans).  
 
