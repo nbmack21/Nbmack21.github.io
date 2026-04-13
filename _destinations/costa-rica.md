@@ -29,8 +29,6 @@ Below is how we structured the trip, heavily influenced by recommendations from 
 **Evening:** Pool full of kids, easy dinner, zero decisions required  
  - Exactly the kind of start we needed
 
----
-
 ## Day 2: Drive to La Fortuna
 **🚗 Rental Car:** Adobe | drive time ~3 hours
 
@@ -47,8 +45,6 @@ Below is how we structured the trip, heavily influenced by recommendations from 
 
 **Evening:** Dinner and ice cream in La Fortuna town
 
----
-
 ## Day 3: Wildlife + Chocolate + Hot SPrings
 
 **Morning:** [Proyecto Asis Wildlife Tour](https://institutoasis.com/)
@@ -60,8 +56,6 @@ Below is how we structured the trip, heavily influenced by recommendations from 
 **Afternoon:** Quiet time at the hotel (non-negotiable reset) 
 
 **Evening:** Tabacon Hot Springs + dinner
-
----
 
 ## Day 4: Sloths and Pools
 
@@ -76,8 +70,6 @@ Below is how we structured the trip, heavily influenced by recommendations from 
 
 **Evening:** Room Service
  - Everyone was wiped, and this was the right call for our family
-
----
 
 ## Day 5: La Fortuna to Playa Conchal (3.5 hour drive)
 
