@@ -15,7 +15,7 @@ We spent a few days here over spring break in a sprinter van, and it ended up be
 ![](/assets/images/Sand-dunes-pismo.jpg)
 
 ## Day 1: Travel Day
-**🚗Getting There:** We drove up from Southern California. If you’re not in a rush (or your kids need to get their energy out), this stretch of the 101 has some easy stops:
+**🚗 Getting There:** We drove up from Southern California. If you’re not in a rush (or your kids need to get their energy out), this stretch of the 101 has some easy stops:
   - [Marina Park Playground](https://www.cityofventura.ca.gov/2185/Marina-Park-Playground) (Ventura)
   - [Jack’s Bistro & Famous Bagels](https://bagelnet.com/) (Carpinteria)
   - [Tomol Interpretive Play Area](https://www.playlsi.com/en/commercial-playground-equipment/playgrounds/tomol-interpretive-play-area/) (Carpinteria)
@@ -41,7 +41,7 @@ We spent a few days here over spring break in a sprinter van, and it ended up be
 ## Day 2: Oceano Sand Dunes & Pismo Beach
 **Breakfast:** At the campsite
 
-**🥾 Morning:** [Oceano Sand Dunes](https://experiencepismobeach.com/beach-and-outdoors/oceano-dunes/)
+**Morning:** [Oceano Sand Dunes](https://experiencepismobeach.com/beach-and-outdoors/oceano-dunes/)
  - Rented sandboards from [Oceano Surf Shack](https://www.oceanosurfshack.com/) 
  - Parked near the [Sandboarding Entry Trail Head](https://mindtrip.ai/attraction/oceano-california/sandboarding-entry-trail-head/at-RFnApCQI) 
  - Pro tip: wax the boards after every run — it makes a big difference
