@@ -17,7 +17,6 @@ Below is the itinerary I researched and planned for our trip:
 
 ![](/assets/images/hero.jpg){: .align-center .w-50}
 
-{: .text-center}
 *📍 Death Valley National Park*
 
 ## Day 1: Mammoth → Death Valley
@@ -45,7 +44,6 @@ Below is the itinerary I researched and planned for our trip:
 
 ![Mosaic Canyon trail](/assets/images/MosaicCanyon.jpg){: .align-center .w-50}
 
-{: .text-center}
 *📍 Mosaic Canyon*
 
 **Sand Dunes:** [Mesquite Flat Sand Dunes](https://www.nps.gov/places/mesquite-flat-sand-dunes.htm) (5 minutes from Mosaic Canyon)
@@ -76,7 +74,6 @@ Below is the itinerary I researched and planned for our trip:
 
 ![Badwater Basin](/assets/images/BadwaterBasin_CM.jpg){: .align-center .w-50}
 
-{: .text-center}
 *📍 Badwater Basin*
 
 **Final Stop:** [Furnace Creek Visitor Center](https://www.nps.gov/thingstodo/visit-the-furnace-creek-visitor-center.htm)
