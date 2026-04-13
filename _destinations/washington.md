@@ -13,7 +13,6 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 ![](/assets/images/WABeach1.jpg){: .align-center .w-50}
 
-{: .text-center}
 *📍 Jackson State Beach*
 
 ## Day 1: Seattle → Anacortes
@@ -48,7 +47,6 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 ![Rock throwing at Jackson State Beach](/assets/images/WARockThrow.jpg){: .align-center .w-50}
 
-{: .text-center}
 *📍 Jackson State Beach*
 
 **Afternoon:** Chill time at the resort
@@ -70,7 +68,6 @@ We visited Washington State with my in-laws for our second multi-generational tr
 
 ![](/assets/images/WAKiln.jpg){: .align-center .w-50}
 
-{: .text-center}
 *📍 Lime Kiln Poinst State Park*
 
 **Dinner:** Home-cooked meal
