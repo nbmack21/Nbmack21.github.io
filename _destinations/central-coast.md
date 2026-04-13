@@ -1,6 +1,6 @@
 ---
 title: "Central Coast Road Trip"
-excerpt: "Pismo Beach - Spring Break 2026"
+excerpt: "Pismo Beach - Spring Break"
 layout: single
 header:
   teaser: /assets/images/Sand-dunes-pismo.jpg
