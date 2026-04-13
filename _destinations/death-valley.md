@@ -32,8 +32,6 @@ Below is the itinerary I researched and planned for our trip:
  - Dinner at the [Ice Cream Parlour](https://www.oasisatdeathvalley.com/dine/ice-cream-parlor/?xfunnel=&xmedium=&xsource=&utm_term=&utm_campaign=oasis-brand-prospects_ca-lv-az-pmax-google-bottom&utm_source=adwords&utm_medium=ppc&hsa_acc=6414653504&hsa_cam=23389078947&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23389085988&gbraid=0AAAAADqlKd3ZbYJ4Y1FvJDCAByMNYAeQE&gclid=Cj0KCQiA-NHLBhDSARIsAIhe9X2zkK1jG6R_ODU8CLtODapzeF37z6zx3mlWDvp-ntMvq1HE5B2wUu4aAmf7EALw_wcB)—surprisingly good burgers and chicken fingers
  - On the walk back to the rooms, don’t forget to look up. The stargazing is incredible.
 
----
-
 ## Day 2: Hiking & Sand Dunes
 **Breakfast:** Snacks packed from the drive (bagels, muffins, breakfast bars, strawberries). 
 
@@ -59,8 +57,6 @@ Below is the itinerary I researched and planned for our trip:
 
 **Dinner:** [Wild Rose Tavern](https://www.oasisatdeathvalley.com/dine/wildrose-tavern/?xfunnel=&xmedium=&xsource=&utm_term=&utm_campaign=oasis-brand-prospects_ca-lv-az-pmax-google-bottom&utm_source=adwords&utm_medium=ppc&hsa_acc=6414653504&hsa_cam=23389078947&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23389085988&gbraid=0AAAAADqlKd3ZbYJ4Y1FvJDCAByMNYAeQE&gclid=Cj0KCQiA-NHLBhDSARIsAIhe9X1At8Qj5S5AZPuoO6qW1dpSrFno5PGLHF5tt7OullOxb28YhJKL_7saAnEOEALw_wcB)
 
----
-
 ## Day 3: Death Valley’s Iconic Spots
 
 **Morning:** Zabriskie Point
@@ -82,8 +78,6 @@ Below is the itinerary I researched and planned for our trip:
 **Afternoon:** Well-deserved naps 
 
 **Dinner:** Ice Cream Parlour (round two)
-
----
 
 ## Day 4: Travel Day
 Since we live in San Diego, we exited the park from a different route than we entered, essentially driving the length of Death Valley. A great final perspective on how vast the park really is. 
