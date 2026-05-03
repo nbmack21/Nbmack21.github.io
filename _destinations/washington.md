@@ -71,6 +71,7 @@ Anacortes was the surprise highlight, and Roche Harbor made for an easy, comfort
 
 ## Day 4: Sculpture Park and Orca Watching (Sort of)
 **Breakfast:** [Lime Kiln Cafe](https://www.rocheharbor.com/dining/lime-kiln-cafe-menu/)
+
 **Morning:** [San Juan Islands Sculpture Park](https://sjisculpturepark.com/)
  - Adults loved it, while the kids… not so much
  - Total time: 30 minutes and one tantrum
@@ -86,10 +87,15 @@ Anacortes was the surprise highlight, and Roche Harbor made for an easy, comfort
 
 ## Day 5: San Juan Island → Seattle (Fremont)
 **Morning:** [Ferry ride](https://wsdot.com/ferries/schedule/ScheduleDetail.aspx?departingterm=10&arrivingterm=1) back to Anacortes 
+
 **Lunch:** [Gere-a-Deli](https://gereadeli.com/)
+
 **Afternoon:** A little more time in Anacortes (we weren't in a rush to leave)
+
 **Drive:** Back to Seattle
+
 **Stay:** Airbnb in Fremont
+
 **Evening:** Neighborhood walk, grocery run, and takeout from a local burger joint
 
 ## Day 6: Seattle City Day
@@ -122,6 +128,7 @@ As with most trips, we didn’t get to everything. These were on our list and st
 [The Farm at Krystal Acres](https://www.krystalacres.com/)
 
 **Between Anacortes and Seattle:**
+
 [Schuh Farms](https://schuhfarmswa.com/) (strawberry picking)
 
 [Novelty Hill Januik Winery](https://www.noveltyhilljanuik.com/)
