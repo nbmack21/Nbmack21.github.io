@@ -33,7 +33,6 @@ We traveled with my husband’s whole family, 10 of us in total. The grandparent
  - This isn't a big buzzing summer mountain resort. It's smaller, sleepier, and quieter
 
 ![](/assets/images/sandsledding-pismo.jpg)
-
 **Lunch:** [Tiki Bar](https://lodgeatwhitefishlake.com/tiki-bar-grill)
 
 **Afternoon:** Pool 
