@@ -98,7 +98,7 @@ If your kids are older or more adventurous, Whitefish has plenty more to offer:
 
 ## If We Did Our Trip Again...
 **More Breweries.** Our schedule and their hours never quite lined up, but these are on my list:
- - [Backslope Brewing](https://backslopebrewing.com/),conveniently located on the way back from Glacier
+ - [Backslope Brewing](https://backslopebrewing.com/), conveniently located on the way back from Glacier
  - [Bonsai Brewing](https://bonsaibrewery.com/) (closed Mondays)
  - [Blackstar BrewPub](https://www.blackstarmt.com/)
  - [Thirty Eight](https://thirtyeightwhitefish.com/), an open-air spot downtown with live music and food trucks
