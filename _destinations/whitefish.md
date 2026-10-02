@@ -3,7 +3,7 @@ title: "Whitefish, Montana"
 excerpt: "Family Friendly Summer Vacation"
 layout: single
 header:
-  teaser: /assets/images/Sand-dunes-pismo.jpg
+  teaser: /assets/images/LakeSunset.jpg
 tags: [family-travel]
 date: 2026-07-30
 ---
@@ -12,7 +12,7 @@ If you’re thinking about a trip to Whitefish, consider this your sign to go. W
 
 We traveled with my husband’s whole family, 10 of us in total. The grandparents are in their 70s, the parents are 40-something, and the kids ranged from 4 to 12. If a destination can keep that group happy and well-fed, it’s doing something right. Here’s how we spent our week.
 
-![](/assets/images/Sand-dunes-pismo.jpg)
+![](/assets/images/BoatSunset.jpg)
 
 ## Day 1: Travel Day
 **✈️ Getting There:** Flight: Nonstop on Alaska Airlines from San Diego to Kalispell
@@ -24,7 +24,7 @@ We traveled with my husband’s whole family, 10 of us in total. The grandparent
 
 **Dinner:** At the hotel, followed by s’mores on the lawn and a rock-throwing session into the lake
 
-![](/assets/images/sunset-pismo.jpg)
+![](/assets/images/Rockthrow.jpg)
 
 ## Day 2: Whitefish Mountain Resort
 **Breakfast:** [Loula's Cafe](https://www.loulaswhitefish.com/)
@@ -32,7 +32,6 @@ We traveled with my husband’s whole family, 10 of us in total. The grandparent
 **Morning:** [Alpine Slide at Whitefish Mountain Resort](https://skiwhitefish.com/alpine-slides/)
  - This isn't a big buzzing summer mountain resort. It's smaller, sleepier, and quieter
 
-![](/assets/images/sandsledding-pismo.jpg)
 **Lunch:** [Tiki Bar](https://lodgeatwhitefishlake.com/tiki-bar-grill)
 
 **Afternoon:** Pool 
@@ -62,6 +61,8 @@ We traveled with my husband’s whole family, 10 of us in total. The grandparent
  -  We never planned to hike the whole trail. Our goal was to wander and take some photos. Somewhere along the way, “wandering” turned into the ENTIRE hike. Kids who had never walked more than one mile finished a 2.7-mile roundtrip without a single complaint
  -  The early start provided perfect hiking weather. It wasn’t too cold and wasn’t yet too hot
  -  On the drive back, we stopped at Lake McDonald to dip our toes, skip rocks, and soak in the famous rainbow pebbles
+
+![](/assets/images/GlacierHike.jpg)
 
 **Lunch:** [Freda's](https://www.glacierparkcollection.com/lodging/west-glacier-village/dining/)
  -  Not recommended; food was very meh. It wasn’t part of the plan, but hungry stomachs don’t negotiate
