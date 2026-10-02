@@ -25,6 +25,7 @@ We traveled with my husband’s whole family, 10 of us in total. The grandparent
 **Dinner:** At the hotel, followed by s’mores on the lawn and a rock-throwing session into the lake
 
 ![](/assets/images/Rockthrow.jpg)
+*📍 Whitefish Lake*
 
 ## Day 2: Whitefish Mountain Resort
 **Breakfast:** [Loula's Cafe](https://www.loulaswhitefish.com/)
@@ -63,6 +64,7 @@ We traveled with my husband’s whole family, 10 of us in total. The grandparent
  -  On the drive back, we stopped at Lake McDonald to dip our toes, skip rocks, and soak in the famous rainbow pebbles
 
 ![](/assets/images/GlacierHike.jpg)
+*📍 Hidden Lake Overlook Trail*
 
 **Lunch:** [Freda's](https://www.glacierparkcollection.com/lodging/west-glacier-village/dining/)
  -  Not recommended; food was very meh. It wasn’t part of the plan, but hungry stomachs don’t negotiate
