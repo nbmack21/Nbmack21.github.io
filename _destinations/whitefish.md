@@ -3,7 +3,7 @@ title: "Whitefish, Montana"
 excerpt: "Family Friendly Summer Vacation"
 layout: single
 header:
-  teaser: /assets/images/LakeSunset.jpg
+  teaser: /assets/images/LakeSunset.JPG
 tags: [family-travel]
 date: 2026-07-30
 ---
