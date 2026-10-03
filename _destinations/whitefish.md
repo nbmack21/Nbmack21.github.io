@@ -3,7 +3,7 @@ title: "Whitefish, Montana"
 excerpt: "Family Friendly Summer Vacation"
 layout: single
 header:
-  teaser: /assets/images/Montana.jpg
+  teaser: /assets/images/Montana.JPG
 tags: [family-travel]
 date: 2026-07-30
 ---
@@ -12,7 +12,7 @@ If you’re thinking about a trip to Whitefish, consider this your sign to go. W
 
 We traveled with my husband’s whole family, 10 of us in total. The grandparents are in their 70s, the parents are 40-something, and the kids ranged from 4 to 12. If a destination can keep that group happy and well-fed, it’s doing something right. Here’s how we spent our week.
 
-![](/assets/images/Montana.jpg)
+![](/assets/images/Montana.JPG)
 
 ## Day 1: Travel Day
 **✈️ Getting There:** Flight: Nonstop on Alaska Airlines from San Diego to Kalispell
