@@ -19,8 +19,8 @@ We traveled with my husband’s whole family, 10 of us in total. The grandparent
 
 **🚗 Car Rental:** We used Avis, but any rental company works 
 
-**🏨 Stay:** [The Lodget at Whitefish Lake]([https://www.visitpcv.com/](https://lodgeatwhitefishlake.com/?gad_source=1&gad_campaignid=20902368618&gbraid=0AAAAAD5XAYRJJ2hwSHo6Q02I8DGOErHGq&gclid=CjwKCAjw_eLVBhBEEiwAeaYZfPk5WkWnzGdhPOG4b9NNBRGQszWhMp3rnXehSPKMYHcpJJetUhSP6hoC77UQAvD_BwE))
-  - It’s a bit dated, but the location, family-friendly rooms and proximity to Glacier National Park made it the clear winner for a group our size
+**🏨 Stay:** [The Lodge at Whitefish Lake]([https://www.visitpcv.com/](https://lodgeatwhitefishlake.com/?gad_source=1&gad_campaignid=20902368618&gbraid=0AAAAAD5XAYRJJ2hwSHo6Q02I8DGOErHGq&gclid=CjwKCAjw_eLVBhBEEiwAeaYZfPk5WkWnzGdhPOG4b9NNBRGQszWhMp3rnXehSPKMYHcpJJetUhSP6hoC77UQAvD_BwE))
+  - It’s a bit dated, but the location, family-friendly rooms, and proximity to Glacier National Park made it the clear winner for a group our size
 
 **Dinner:** At the hotel, followed by s’mores on the lawn and a rock-throwing session into the lake
 
@@ -88,7 +88,7 @@ We traveled with my husband’s whole family, 10 of us in total. The grandparent
  -  Buy tickets ahead and arrive early for good seats
  -  Bull riding, barrel racing, and cowboy hats - it was peak Montana.
 
- ## Day 6: Travel Day
+## Day 6: Travel Day
 
 ## Got Older Kids?
 If your kids are older or more adventurous, Whitefish has plenty more to offer:
