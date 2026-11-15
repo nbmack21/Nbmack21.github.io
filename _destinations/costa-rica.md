@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica"
-excerpt: "A 7-Day Spring Break Family Itinerary"
+excerpt: "The Perfect Week In Pura Vida"
 layout: single
 header:
   teaser: /assets/images/costa-rica-cropped-3.png
