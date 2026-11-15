@@ -1,6 +1,6 @@
 ---
 title: "Death Valley, California"
-excerpt: "4-Day Family-Friendly Itinerary"
+excerpt: "Salt Flats, Sand Dunes, and Big Desert Skies"
 layout: single
 header:
   teaser: /assets/images/Scenery.jpg
