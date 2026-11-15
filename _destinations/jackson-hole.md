@@ -1,6 +1,6 @@
 ---
 title: "Jackson Hole, Wyoming"
-excerpt: "A Cowboy Town with Teton Views"
+excerpt: "A Cowboy Town With Teton Views"
 layout: single
 header:
   teaser: /assets/images/SceneryJAC2.jpg
