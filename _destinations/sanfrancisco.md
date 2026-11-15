@@ -33,7 +33,8 @@ This was our first trip back since leaving in 2021, and it most definitely won‚Ä
 **Morning:** [Presidio Tunnel Tops Playground](https://presidio.gov/explore/attractions/outpost-playground)
   - Creative playground, big lawns, and Golden Gate Bridge views while the kids run wild
 
-![](/assets/images/sfkids.JPG)
+![](/assets/images/sfkids.jpg)
+*üìç Presidio Tunnel Tops Playground*
 
 **Lunch:** [Off the Grid Food Trucks](https://offthegrid.com/event/presidio-picnic) at Presidio Lawn
   - We picnicked with friends. Plenty of options for picky eaters and adventurous ones alike
@@ -64,6 +65,8 @@ This was our first trip back since leaving in 2021, and it most definitely won‚Ä
 **Lunch:** [Gott's Roadside](https://www.gotts.com/location/sfferrybuilding/) (inside the Ferry Building)
 
 **Afternoon:** We called an audible and drove home after lunch rather than hitting the road at 5AM the next day. No regrets.
+
+![](/assets/images/sfbaybridge.JPG)
 
 ## Final Thoughts
 San Francisco stole our hearts years ago, and coming back as a family of four felt like coming home. We reconnected with friends, showed the kids where they first lived, and spent a little time being tourists in our old city. We didn‚Äôt get to nearly everything (hello, Golden Gate Park!), but that just means this was the first of many trips back. With the right mix of neighborhoods, playgrounds, and good food, San Francisco is every bit as magical with kids as it was without them.
