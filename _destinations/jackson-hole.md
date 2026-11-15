@@ -1,6 +1,6 @@
 ---
 title: "Jackson Hole, Wyoming"
-excerpt: "5-Day Family-Friendly Itinerary (with a Grand Teton Day Trip)"
+excerpt: "A Cowboy Town with Teton Views"
 layout: single
 header:
   teaser: /assets/images/SceneryJAC2.jpg
