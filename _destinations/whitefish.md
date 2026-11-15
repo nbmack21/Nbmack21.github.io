@@ -1,6 +1,6 @@
 ---
 title: "Whitefish, Montana"
-excerpt: "Family Friendly Summer Vacation"
+excerpt: "Family-Friendly Summer Vacation"
 layout: single
 header:
   teaser: /assets/images/Montana.JPG
