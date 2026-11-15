@@ -1,6 +1,6 @@
 ---
 title: "San Francisco"
-excerpt: "Kid-approved City Adventure"
+excerpt: "Kid-Approved City Adventure"
 layout: single
 header:
   teaser: /assets/images/sfbridge.JPG
