@@ -1,6 +1,6 @@
 ---
 title: "Whitefish, Montana"
-excerpt: "Lake Days and Glacier Adventures"
+excerpt: "Lake Days And Glacier Adventures"
 layout: single
 header:
   teaser: /assets/images/Montana.JPG
