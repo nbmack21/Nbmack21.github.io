@@ -3,7 +3,7 @@ title: "San Francisco"
 excerpt: "4-Day Family Friendly Itinerary"
 layout: single
 header:
-  teaser: /assets/images/Montana.JPG
+  teaser: /assets/imagessfcityscape.JPG
 tags: [family-travel]
 date: 2026-08-16
 ---
@@ -12,8 +12,7 @@ San Francisco is a different kind of destination for us. My husband and I lived 
 
 This was our first trip back since leaving in 2021, and it most definitely won’t be our last. So we didn’t rush to do it all. We prioritized time with friends while still giving the kids a taste of the city where they first lived. Below is how we spent our days, followed by my favorite food, drink, and family-friendly recommendations to help you plan your own visit. 
 
-
-![](/assets/images/Montana.JPG)
+![](/assets/images/sfbridge.JPG)
 
 ## Day 1: Travel Day
 **🚗 Getting There:** Drove up from San Diego
@@ -33,6 +32,8 @@ This was our first trip back since leaving in 2021, and it most definitely won�
 
 **Morning:** [Presidio Tunnel Tops Playground](https://presidio.gov/explore/attractions/outpost-playground)
   - Creative playground, big lawns, and Golden Gate Bridge views while the kids run wild
+
+![](/assets/images/sfkids.JPG)
 
 **Lunch:** [Off the Grid Food Trucks](https://offthegrid.com/event/presidio-picnic) at Presidio Lawn
   - We picnicked with friends. Plenty of options for picky eaters and adventurous ones alike
