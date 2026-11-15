@@ -1,5 +1,5 @@
 ---
-title: "San Francisco"
+title: "San Francisco, California"
 excerpt: "Kid-Approved City Adventure"
 layout: single
 header:
