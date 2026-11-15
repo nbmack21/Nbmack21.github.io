@@ -1,6 +1,6 @@
 ---
 title: "Death Valley, California"
-excerpt: "Salt Flats, Sand Dunes, and Big Desert Skies"
+excerpt: "Salt Flats, Sand Dunes, & Desert Skies"
 layout: single
 header:
   teaser: /assets/images/Scenery.jpg
