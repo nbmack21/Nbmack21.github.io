@@ -1,6 +1,6 @@
 ---
 title: "San Juan Islands and Seattle, Washington"
-excerpt: "A Multi-Generational Itinerary"
+excerpt: "A Multi-Generational Family Trip"
 layout: single
 header:
   teaser: /assets/images/WABeach1.jpg
