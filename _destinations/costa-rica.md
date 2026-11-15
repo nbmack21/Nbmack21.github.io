@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica"
-excerpt: "The Perfect Week In Pura Vida"
+excerpt: "One Week Of Pura Vida"
 layout: single
 header:
   teaser: /assets/images/costa-rica-cropped-3.png
