@@ -3,7 +3,7 @@ title: "San Francisco"
 excerpt: "4-Day Family-Friendly Itinerary"
 layout: single
 header:
-  teaser: /assets/images/sfcityscape.JPG
+  teaser: /assets/images/sfbridge.JPG
 tags: [family-travel]
 date: 2026-08-16
 ---
