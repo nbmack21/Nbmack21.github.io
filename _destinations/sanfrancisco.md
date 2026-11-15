@@ -1,6 +1,6 @@
 ---
 title: "San Francisco"
-excerpt: "4-Day Family-Friendly Itinerary"
+excerpt: "Kid-approved City Adventure"
 layout: single
 header:
   teaser: /assets/images/sfbridge.JPG
